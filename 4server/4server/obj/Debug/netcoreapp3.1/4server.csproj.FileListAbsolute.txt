@@ -1,0 +1,13 @@
+C:\Users\Lexakul\source\repos\4server\4server\obj\Debug\netcoreapp3.1\4server.csproj.AssemblyReference.cache
+C:\Users\Lexakul\source\repos\4server\4server\obj\Debug\netcoreapp3.1\4server.AssemblyInfoInputs.cache
+C:\Users\Lexakul\source\repos\4server\4server\obj\Debug\netcoreapp3.1\4server.AssemblyInfo.cs
+C:\Users\Lexakul\source\repos\4server\4server\obj\Debug\netcoreapp3.1\4server.csproj.CoreCompileInputs.cache
+C:\Users\Lexakul\source\repos\4server\4server\bin\Debug\netcoreapp3.1\4server.exe
+C:\Users\Lexakul\source\repos\4server\4server\bin\Debug\netcoreapp3.1\4server.deps.json
+C:\Users\Lexakul\source\repos\4server\4server\bin\Debug\netcoreapp3.1\4server.runtimeconfig.json
+C:\Users\Lexakul\source\repos\4server\4server\bin\Debug\netcoreapp3.1\4server.runtimeconfig.dev.json
+C:\Users\Lexakul\source\repos\4server\4server\bin\Debug\netcoreapp3.1\4server.dll
+C:\Users\Lexakul\source\repos\4server\4server\bin\Debug\netcoreapp3.1\4server.pdb
+C:\Users\Lexakul\source\repos\4server\4server\obj\Debug\netcoreapp3.1\4server.dll
+C:\Users\Lexakul\source\repos\4server\4server\obj\Debug\netcoreapp3.1\4server.pdb
+C:\Users\Lexakul\source\repos\4server\4server\obj\Debug\netcoreapp3.1\4server.genruntimeconfig.cache
